@@ -1,0 +1,30 @@
+#################### Knock-up Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2018-02-26 16:43:27 +0530)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.149:49421 (2018-02-26 16:43:31 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.201
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.149:49422 (2018-02-26 16:43:35 +0530)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.201
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
